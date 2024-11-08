@@ -8,7 +8,7 @@ This is a Computer Science Essentials Assignment for Emerald High School.
 4. Do you have any close friends to rely on (at least one)?
 5. How open are you to making new friends?
 ## Code view image
-![image](https://github.com/user-attachments/assets/4b502d9c-cd1a-467d-9759-a34e18844a14)
+![blocks (1)](https://github.com/user-attachments/assets/f3db92df-53ec-4c90-a5f2-85f72c8ed0d5)
 
 ## Design view image
 ![image](https://github.com/user-attachments/assets/ee65f9ff-8719-42ae-bb2a-a2b1c362cd49)
