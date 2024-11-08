@@ -18,4 +18,8 @@ This is a Computer Science Essentials Assignment for Emerald High School.
 ## About
 These interview questions and the interview itself is about social health. It aims to gather data on people's overall social happiness. It does not analyze your answers, as it is not multiple choice.
 
-UI does not look too great but I tried to make it an orange color theme with images from the interenet. Mit app inventor .aia file uploaded to the repository.
+
+## Notes
+UI does not look too great but I tried to make it an orange color theme with images from the interenet. 
+Mit app inventor .aia file uploaded to the repository.
+With more time, maybe would have made it multiple choice and made a screen to analyze your responses, and a page to show overall data from people who have used the app.
