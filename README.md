@@ -11,3 +11,7 @@ This is a Computer Science Essentials Assignment for Emerald High School.
 ## Code view image
 ![image](https://github.com/user-attachments/assets/4b502d9c-cd1a-467d-9759-a34e18844a14)
 
+## Design view image
+![image](https://github.com/user-attachments/assets/ee65f9ff-8719-42ae-bb2a-a2b1c362cd49)
+
+UI does not look too great but I tried to make it an orange color theme with images from the interenet. Mit app inventor .aia file uploaded to the repository.
