@@ -7,10 +7,10 @@ This is a Computer Science Essentials Assignment for Emerald High School.
 3. How close are you and your friends?
 4. Do you have any close friends to rely on (at least one)?
 5. How open are you to making new friends?
-## Code view image
+## Code:
 ![blocks (1)](https://github.com/user-attachments/assets/f3db92df-53ec-4c90-a5f2-85f72c8ed0d5)
 
-## Design view image
+## Design view:
 ![image](https://github.com/user-attachments/assets/ee65f9ff-8719-42ae-bb2a-a2b1c362cd49)
 
 ## About
