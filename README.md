@@ -21,5 +21,7 @@ These interview questions and the interview itself is about social health. It ai
 
 ## Notes
 UI does not look too great but I tried to make it an orange color theme with images from the interenet. 
+
 Mit app inventor .aia file uploaded to the repository.
+
 With more time, maybe would have made it multiple choice and made a screen to analyze your responses, and a page to show overall data from people who have used the app.
